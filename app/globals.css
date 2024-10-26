@@ -24,8 +24,8 @@
     --input: 0 0% 89.8%;
     --ring: 0 0% 3.9%;
     --radius: 0.3rem;
-    --chart-sky-500: 201 100% 50%;  /* Sky color */
-    --chart-red-500: 0 100% 50%; /* Red color */
+    --chart-nvidia-primary: 84 100% 40%; /* #84cc16 */
+    --chart-nvidia-secondary: 158 60% 30%; /* #15803d */
   }
 
   .dark {
@@ -48,8 +48,8 @@
     --border: 0 0% 14.9%;
     --input: 0 0% 14.9%;
     --ring: 0 0% 83.1%;
-    --chart-sky-500: 201 100% 50%;  /* Sky color */
-    --chart-red-500: 0 62.8% 50%; /* Red color */
+    --chart-nvidia-primary: 84 100% 40%; /* #84cc16 */
+    --chart-nvidia-secondary: 158 60% 30%; /* #15803d */
   }
 }
 

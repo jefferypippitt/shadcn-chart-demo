@@ -10,7 +10,6 @@ export default function Header() {
             <Link href="/">Home</Link>
           </li>
         </ul>
-
         <ThemeToggle />
       </nav>
     </header>
